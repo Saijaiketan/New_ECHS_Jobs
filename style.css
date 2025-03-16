@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(30, 30, 233);
+
+}
+h1{
+    color: gray;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-size: 30px;
+}
+h2{
+    color: orange;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    font-style: oblique;
+}
